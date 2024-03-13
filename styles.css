@@ -34,6 +34,11 @@ header nav ul li {
     font-weight: 500;
 }
 
+.greeating {
+    color: black;
+    font-size: x-large;
+    font-family: fantasy;
+}
 div h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size:xx-large;
@@ -67,7 +72,6 @@ justify-content: center;
 align-items: center;
 padding: 3em;
 width: 50%;
-margin-left: 500px;
 }
 
 .seccion-1 img {
